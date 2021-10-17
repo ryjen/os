@@ -1,0 +1,6 @@
+[submodule "shell"]
+	path = shell
+	url = https://github.com/ryjen/shell.git
+[submodule "scheduling-algos"]
+	path = scheduling-algos
+	url = https://github.com/ryjen/scheduling-algos.git
